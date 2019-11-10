@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Slider</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Verify Degree Documents</string>
+    <string name="slide_1_desc">To verify Degree Document it\'s just easy as 1,2,3!</string>
+
+    <string name="slide_2_title">Take Picture</string>
+    <string name="slide_2_desc">Take picture of your degree document using camera or gallery!</string>
+
+    <string name="slide_3_title">Run Wizard</string>
+    <string name="slide_3_desc">Run the wizard after selecting your University!</string>
+
+    <string name="slide_4_title">Submit Details</string>
+    <string name="slide_4_desc">Submit your details for verification to see your verification result!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
